@@ -1,4 +1,8 @@
 # Who Am I
 
-Just a normal guide trying to learn on my own :)
-I'll get you updated on writing some code
+Just a normal guide trying to learn things on my own :)
+
+I'll get you updated by writing some code
+
+
+I hope you enjoy, stay tuned
